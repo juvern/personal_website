@@ -19,11 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Juvern See # Excluded this from sidebar
-email: hello@juvern.com
+email: hello@fake.com
 description: >- # this means to ignore newlines until "baseurl:"
   My little spot on the world wide web
 baseurl:  # the subpath of your site, e.g. /blog
-url: http://www.juvern.com # the base hostname & protocol for your site, e.g. http://example.com
+url: https://juvern.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
 

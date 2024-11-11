@@ -5,6 +5,8 @@
 layout: default
 title: Index
 ---
-I’m a curious Software Engineer with a passion for building systems both professionally and for myself.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed gravida sed lectus at volutpat. 
 
-As a generalist, I enjoy using a variety of programming languages, frameworks and technologies to build and maintain systems across the tech stack.
+Aliquam consectetur leo massa, sed rutrum nibh cursus id. Nulla rhoncus erat luctus lorem posuere fringilla. 
+
+Sed justo libero, semper nec eros eget, dapibus tincidunt arcu. Mauris enim ipsum, maximus sit amet lobortis a, consectetur vel odio. 
