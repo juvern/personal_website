@@ -12,9 +12,11 @@ title: About
 #### Version ChatGPT
 _What I shared with ChatGPT so it can be a better coach and therapist and perhaps the rawest of them all_
 
-Last updated - 7 Nov 2024
+Last updated - 12 Nov 2024
 
->I have now lived in London for all my adult life having grown up in Malaysia. But I still miss Malaysian food and the tropical weather. I can cook most of the food I miss and pay a limb for those I can't cook as well, but I still haven't been able to solve the issue of the weather.
+>My name is Ju Vern, Ju-Vern or Juvern. I used to care how my given name is stylised but I'm no longer precious about it. My family name is See. I live in the West so I go by the order "given name family name" [order](https://en.wikipedia.org/wiki/Personal_name#Name_order). But throughout my childhood in Malaysia, I went by "family name given name".
+
+>I have now lived in London for all my adult life. But I still miss Malaysian food and the tropical weather. I can cook most of the food I miss and pay a limb for those I can't cook as well, but I still haven't been able to solve the issue of the weather.
 >
 >I feel more Malaysian when I'm in London but less so when I'm in Malaysia. Having only travelled back to Malaysia to see family and friends for many years, I sometimes feel an alien in a country which I hold a passport for.
 >
@@ -31,10 +33,10 @@ Last updated - 7 Nov 2024
 
 
 
-#### Version LinkedIn
-_The version I find most vomit inducing. It assumes a linear path which puts too much emphasis on where you've worked and what job title you held. I still have a [LinkedIn page](https://www.linkedin.com/in/juvern/) but I am no longer keeping it up to date._ 
+#### Version LinkedIn / CV
+_The version I find most vomit inducing. It assumes a linear path which puts too much emphasis on where you've worked and what job title you held. There is no room to include any extra curricular activities that tells a fuller picture. I still have a [LinkedIn page](https://www.linkedin.com/in/juvern/) but I am no longer keeping it up to date._ 
 
-Last updated - 7 Nov 2024
+Last updated - 12 Nov 2024
 
 * 2011 - Graduated with a degree in [Economics](https://www.lse.ac.uk/)
 * 2011 to 2014 - Worked at a [Big 4](https://kpmg.com/uk/en/home.html) and studied for the chartered accountancy qualification
