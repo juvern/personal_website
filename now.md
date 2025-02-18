@@ -1,31 +1,32 @@
 ---
 layout: page
 title: Now
+date: 2025-02-18
 ---
 
 <p class="message">
-  We haven't met for awhile and you want to know what I'm up to right now. Here goes. Inspired by the [Now Page](https://nownownow.com/about).
+Here is what I might say to you if we haven't met for awhile and you want to know what I'm up to right now. Inspired by the <a href="https://nownownow.com/about">Now Page</a>.
 </p>
 
 
-Last updated - 12 Nov 2024
+I am going back to university - but not in the way you might expect.
 
-It has been six weeks of Zoom free days having left the life of a full-time remote worker behind. Surprisingly, I have been really busy but unintentionally so. Believe it or not, I still haven't found the time to watch the last three episodes of Bridgerton Season 3.
+My first instinct was to follow the well-trodden path and safety of further education in the form of a PhD. After all, it is what ambitious do when they reach a fork in life. 
 
-What pays the bills
-* Tennis - I have been hitting the courts, either coaching or playing at least three days a week while keeping the operations at the [coaching academy](https://clubspark.lta.org.uk/VamosTennis/Coaches) going  
-* Dog sitting - I walk and feed dogs and stop them running off to chase cats and squirrels. They get belly rubs but only if they've been a good doggie.
+But when I mentioned this rather brilliant plan to Martin, he just laughed. He reminded me a conversation we had with a friend who spent years in finance and was now pursuing a masters. “Remember what you said when our friend was complaining about his finance assignments?” he asked. 'You were adamant about being done with formal education.' He was right - the thought of taking exams on accounting principles from professors who've never worked in the field made me cringe.
 
-What doesn't pay the bills
-* Cooking - I have travelled the world and back with my cooking. From kimchi to quesadillas to any Mary Berry recipes on her cooking shows, I've cooked them all.
-* Korean language - 한국어를 잘 못해요
-* Life admin - Fixing doors, calling the plumber, washing the dishes, and doing the laundry
-* Random - Embracing new experiences. In the last six weeks, I have played a football match for the first time and attended a screenwriting workshop for inspiration. 
+So, rather than a formal programme where I have to fork out tens of thousands of dollars, I’m self curating the curriculum to study what I want on my own schedule. 
 
-Big life questions I’m working on
-* What next - AI, software engineering, PhD, international development, economics, policy, writing? 
-* Where next - Continue living in London, moving to Malaysia, splitting our time
-* Family - Do we, do we not, when do we?
+It took me four months of wrestling with reality to finally see what was right in front of me all along - I don’t need someone else’s curriculum. I need the freedom to explore my curiosities with enough structure to keep me moving forward.
+
+So I’m designing my university experience. No expensive tuition fees, no fixed schedules and no arbitrary requirements I don’t agree with.
+
+* Programming
+* Korean
+* Mandarin
+* Writing
+
+These subjects might seem disconnected, but they represent different facets of who I want to become: a builder, a bridge between cultures, and a clearer thinker. I'm excited to see how they'll intersect and shape my journey over the coming year.
 
 
 
