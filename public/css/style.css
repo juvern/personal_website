@@ -1,0 +1,189 @@
+/*
+ * Base Styles
+ */
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+@media (min-width: 48em) {
+  html {
+    font-size: 18px;
+  }
+}
+
+body {
+  color: #515151;
+  background-color: #fff;
+}
+
+a {
+  color: #ac4142;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+  margin-bottom: .5rem;
+  font-weight: bold;
+  line-height: 1.25;
+  color: #313131;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+ul, ol {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+/*
+ * Home Page Layout
+ */
+
+.home-page {
+  background-color: #fff;
+  min-height: 100vh;
+}
+
+.home-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 2rem 1.25rem;
+}
+
+@media (min-width: 48em) {
+  .home-container {
+    padding: 4rem 2rem;
+  }
+}
+
+.home-hero {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.home-photos {
+  display: flex;
+  justify-content: center;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.home-photo {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+
+@media (min-width: 30em) {
+  .home-photo {
+    width: 100px;
+    height: 100px;
+  }
+}
+
+@media (min-width: 48em) {
+  .home-photo {
+    width: 120px;
+    height: 120px;
+  }
+}
+
+.home-name {
+  font-family: "Playfair Display", serif;
+  font-size: 2rem;
+  margin: 0 0 0.5rem 0;
+  color: #303030;
+}
+
+@media (min-width: 30em) {
+  .home-name {
+    font-size: 2.5rem;
+  }
+}
+
+.home-tagline {
+  font-size: 1.1rem;
+  color: #515151;
+  margin: 0 0 1.5rem 0;
+}
+
+.home-links {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.home-link {
+  display: inline-block;
+  padding: 0.5rem 1.25rem;
+  background-color: #ac4142;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 0.95rem;
+  transition: background-color 0.2s ease;
+}
+
+.home-link:hover {
+  background-color: #8a3637;
+  text-decoration: none;
+}
+
+/*
+ * Body Content
+ */
+
+.home-body {
+  line-height: 1.7;
+  color: #515151;
+}
+
+.home-body p {
+  margin-bottom: 1.25rem;
+}
+
+.pull-quote {
+  font-size: 1.1rem;
+  font-style: italic;
+  color: #888;
+  margin: 1.25rem 0;
+  line-height: 1.5;
+}
+
+/*
+ * Footer
+ */
+
+.last-edited {
+  margin-top: 1rem;
+  font-size: 0.7rem;
+  color: #ccc;
+  text-align: center;
+}
