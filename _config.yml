@@ -1,9 +1,8 @@
 # Site settings
 title: Juvern See
 email: see@juvern.com
-description: Programmer in training, tennis coach and wannabe writer
-url: https://juvern.github.io
-baseurl: /personal_website
+description: Learning, building, writing and coaching tennis
+url: https://juvern.com
 
 # Build settings
 plugins: []
