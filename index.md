@@ -13,10 +13,6 @@ permalink: /
 
   <h1 class="home-name">Juvern See</h1>
   <p class="home-tagline">I spend my time learning, building things, coaching tennis, and writing to make sense of things.</p>
-
-  <div class="home-links">
-    <a href="mailto:{{ site.email }}" class="home-link">Contact</a>
-  </div>
 </div>
 
 <div class="home-body">

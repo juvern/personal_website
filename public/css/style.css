@@ -47,6 +47,12 @@ h1, h2, h3, h4, h5, h6 {
   color: #313131;
 }
 
+h2 {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
 p {
   margin-top: 0;
   margin-bottom: 1rem;
@@ -60,6 +66,47 @@ ul, ol {
 img {
   display: block;
   max-width: 100%;
+}
+
+/*
+ * Navigation
+ */
+
+.site-nav {
+  background-color: #fff;
+  border-bottom: 1px solid #e5e5e5;
+  padding: 1rem 0;
+}
+
+.nav-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+  display: flex;
+  gap: 1.5rem;
+}
+
+.nav-link {
+  color: #515151;
+  text-decoration: none;
+  font-size: 0.95rem;
+  transition: color 0.2s ease;
+}
+
+.nav-link:hover {
+  color: #ac4142;
+  text-decoration: none;
+}
+
+.nav-link.active {
+  color: #ac4142;
+  font-weight: bold;
+}
+
+@media (min-width: 48em) {
+  .nav-container {
+    padding: 0 2rem;
+  }
 }
 
 /*
@@ -167,6 +214,10 @@ img {
 
 .home-body p {
   margin-bottom: 1.25rem;
+}
+
+.home-body h2:first-child {
+  margin-top: 0;
 }
 
 .pull-quote {
