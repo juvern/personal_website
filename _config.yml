@@ -2,7 +2,8 @@
 title: Juvern See
 email: see@juvern.com
 description: Programmer in training, tennis coach and wannabe writer
-url: https://juvern.github.io/
+url: https://juvern.github.io
+baseurl: /personal_website
 
 # Build settings
 plugins: []

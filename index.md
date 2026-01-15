@@ -6,9 +6,9 @@ permalink: /
 
 <div class="home-hero">
   <div class="home-photos">
-    <img src="{{ site.baseurl }}public/images/jv2.jpg" alt="Photo" class="home-photo">
-    <img src="{{ site.baseurl }}public/images/jv1.jpg" alt="Photo" class="home-photo">
-    <img src="{{ site.baseurl }}public/images/jv3.jpg" alt="Photo" class="home-photo">
+    <img src="{{ site.baseurl }}/public/images/jv2.jpg" alt="Photo" class="home-photo">
+    <img src="{{ site.baseurl }}/public/images/jv1.jpg" alt="Photo" class="home-photo">
+    <img src="{{ site.baseurl }}/public/images/jv3.jpg" alt="Photo" class="home-photo">
   </div>
 
   <h1 class="home-name">Juvern See</h1>
