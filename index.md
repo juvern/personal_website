@@ -12,15 +12,14 @@ permalink: /
   </div>
 
   <h1 class="home-name">Juvern See</h1>
-  <p class="home-tagline">I spend my time learning, building things, coaching tennis, and writing to make sense of things.</p>
+  <p class="home-tagline">Finance, tennis, and whatever I'm curious about next.</p>
 </div>
 
 <div class="home-body">
-  <p>I live in London and grew up in Malaysia. I tend to feel more Malaysian when I'm abroad and more like an outsider when I'm home — a tension that has shaped how I think about identity, belonging, and choice.</p>
-
-  <p class="pull-quote">Your career only makes sense when you connect it backwards.</p>
-
-  <p>I've worked across startups, been a <a href="https://www.joinrora.com/">founder</a> and spent enough time in the <a href="https://kpmg.com/uk/en/home.html">corporate</a> world to know it's not for me. Looking back, there's a thread except I didn't see it at the time.</p>
+  <p>I offer finance and operational consultancy for businesses — I trained at <a href="https://kpmg.com/uk/en/home.html">KPMG</a>, previously co-founded <a href="https://www.joinrora.com/">RORA</a>, and have worked across many businesses since. 
+  </p>
+  <p>I also run a <a href="https://clubspark.lta.org.uk/VamosTennis/">community tennis coaching company</a>, and I'm currently working through a <a href="https://launchschool.com/">mastery-based software engineering program</a>.
+  </p>
 </div>
 
-<p class="last-edited">Last updated January 2025</p>
+<p class="last-edited">Last updated February 2026</p>

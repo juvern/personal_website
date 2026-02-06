@@ -6,15 +6,13 @@ permalink: /projects/
 
 <div class="home-hero">
   <h1 class="home-name">Projects</h1>
-  <p class="home-tagline">Things I've built and working on</p>
+  <p class="home-tagline">What happens when I get curious.</p>
 </div>
 
 <div class="home-body">
-  <h2>Launch School</h2>
-  <p><em>September 2025 – Present</em></p>
-  <p>Working through <a href="https://launchschool.com/">Launch School</a>'s mastery-based software engineering program. I wanted a proper foundation in backend development instead of duct-taping tutorials together. AI is eating the world, which makes understanding fundamentals more important, not less.</p>
-  <p>The program is depth-first — each course ends with a rigorous interview assessment (live coding and concept explanations) before you can move on. I've completed Python, object-oriented design, networking fundamentals, and networked applications.</p>
-  <p><strong>Topics covered:</strong> Python, OOP, networking protocols, SQL, relational databases</p>
+  <h2>Writing</h2>
+  <p><em>Ongoing</em></p>
+  <p>Writing about work dynamics, the experiences I've had across startups and founding companies, and the things I've learned along the way. Not yet published — still figuring out the format.</p>
 
   <h2>Coach Payments Processor</h2>
   <p><em>September 2025</em></p>
@@ -24,7 +22,7 @@ permalink: /projects/
 
   <h2>Email Auto-Labeler</h2>
   <p><em>July 2025</em></p>
-  <p>Built a machine learning system that automatically categorises and archives Gmail emails. I was constantly overwhelemed by my inbox  newsletters, promotions, and notifications cluttering my inbox and this reduced my anxiety significantly. </p>
+  <p>Built a machine learning system that automatically categorises and archives Gmail emails. I was constantly overwhelmed by my inbox — newsletters, promotions, and notifications cluttering my inbox and this reduced my anxiety significantly. </p>
   <p>The system uses a trained classifier to predict email categories with confidence scoring — only labeling when it's sure. It runs as a scheduled Cloud Run job, processing new emails and archiving everything except what needs attention.</p>
   <p>I could have just set up labels and rules in Gmail, but this was more fun.</p>
   <p><strong>Built with:</strong> Python, Gmail API, scikit-learn, Google Cloud Run</p>
@@ -46,10 +44,10 @@ permalink: /projects/
 
   <h2>Tennis Course Creator</h2>
   <p><em>July 2025</em></p>
-  <p>Instead of manually creating dozens of courses each term through the web interface, this reads course data from a CSV and creates them programatically.</p>
+  <p>Instead of manually creating dozens of courses each term through the web interface, this reads course data from a CSV and creates them programmatically.</p>
   <p><strong>Built with:</strong> Python</p>
 
 
 </div>
 
-<p class="last-edited">Last updated January 2025</p>
+<p class="last-edited">Last updated February 2026</p>

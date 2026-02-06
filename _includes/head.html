@@ -13,4 +13,7 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/style.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Playfair+Display:wght@700&display=swap">
   <link rel="shortcut icon" href="/public/favicon.ico">
+  {% if page.noindex %}
+  <meta name="robots" content="noindex, nofollow">
+  {% endif %}
 </head>
