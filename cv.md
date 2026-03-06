@@ -18,7 +18,7 @@ noindex: true
   <p><strong>Founder</strong><br>
   Fresh Ideabox, London<br>
   <em>May 2016 – present</em></p>
-  <p>My own consultancy company, providing fractional CFO, FP&A and advisory services to businesses. Past clients include <a href="https://www.ravelin.com/">Ravelin</a>, <a href="https://www.lantum.com/">Lantum</a>, <a href="https://www.callsign.com/">Callsign</a>, Babylon Health, <a href="https://www.rillet.com/">Rillet</a> and <a href="https://clusterfudge.com/">Clusterfudge</a> amongst others. Lead contributor to two modules for the Diploma for Tax Technology offered by <a href="https://www.tax.org.uk/">CIOT.</a></p>
+  <p>My own consultancy company, providing fractional CFO, FP&A and advisory services to businesses. Recently expanded into AI business automation — helping clients identify and implement practical AI workflows. Past clients include <a href="https://www.ravelin.com/">Ravelin</a>, <a href="https://www.lantum.com/">Lantum</a>, <a href="https://www.callsign.com/">Callsign</a>, Babylon Health, <a href="https://www.rillet.com/">Rillet</a> and <a href="https://clusterfudge.com/">Clusterfudge</a> amongst others. Lead contributor to two modules for the Diploma for Tax Technology offered by <a href="https://www.tax.org.uk/">CIOT.</a></p>
 
   <hr>
 

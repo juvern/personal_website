@@ -10,44 +10,53 @@ permalink: /projects/
 </div>
 
 <div class="home-body">
+  <p>I've spent years implementing and migrating business systems — accounting platforms, billing infrastructure, marketplace payments. More recently I've been building the automations myself. The work below is a mix of both.</p>
+
+  <h2>Learning to Program</h2>
+  <p><em>2025 - 2026</em></p>
+  <p>Investing serious time in properly understanding how to program — working through a <a href="https://launchschool.com/">mastery-based software engineering programme</a> to fully understand the fundamentals to use AI tools more effectively and get more out of them.</p>
+
+  <hr>
+
+  <h2>Vamos Tennis Automations</h2>
+  <p><em>2025 - 2026</em></p>
+  <p>Built a series of tools to run the operational side of my <a href="https://clubspark.lta.org.uk/VamosTennis/">tennis coaching company</a>.</p>
+  <p><strong>Payments processor</strong> — processes booking data, calculates coach hours, generates payment files and emails individual reports each month.</p>
+  <p><strong>Newsletter generator</strong> — turns course data into formatted HTML newsletters with AI-generated descriptions.</p>
+  <p><strong>Course creator</strong> — bulk-creates courses from a CSV instead of clicking through the web interface one by one.</p>
+  <p><strong>AI support agent</strong> — an Outlook add-in that drafts customer support email replies using OpenAI, reads the email, generates a contextually appropriate reply, and inserts it into the compose window.</p>
+  <p><strong>Built with:</strong> Python, JavaScript, Streamlit, OpenAI API, Gmail API, Office.js</p>
+
+  <hr>
+
+  <h2>School of FinOps</h2>
+  <p><em>2020 - 2022</em></p>
+  <p>Founded and ran a training school teaching finance professionals how financial systems actually work — SQL, accounting system architecture, how data flows through a business.</p>
+
+  <hr>
+
+  <h2>Marketplace Payments — Lantum</h2>
+  <p><em>2017</em></p>
+  <p>Embedded with the engineering team to build a self-billing marketplace payments platform — making sure the accounting was right, the reconciliation worked, and finance had full visibility. The key finance voice in product and engineering decisions.</p>
+
+  <hr>
+
+  <h2>Billing Infrastructure — Receipt Bank</h2>
+  <p><em>2016-2018</em></p>
+  <p>Product owner for billing — responsible for tens of thousands of invoices a month, payment collection, and aged debtors. Worked across finance, engineering, and operations.</p>
+
+  <hr>
+
+  <h2>NetSuite Implementation — Receipt Bank</h2>
+  <p><em>2017</em></p>
+  <p>Took over a global NetSuite implementation, migrating eight subsidiaries across multiple countries. Managed the project and the consultants, and educated the business on how to use it properly.</p>
+
+  <hr>
+
   <h2>Writing</h2>
   <p><em>Ongoing</em></p>
   <p>Writing about work dynamics, the experiences I've had across startups and founding companies, and the things I've learned along the way. Not yet published — still figuring out the format.</p>
 
-  <h2>Coach Payments Processor</h2>
-  <p><em>September 2025</em></p>
-  <p>Built a Streamlit app to automate coach payment processing. I needed to calculate hours worked from booking data, generate individual payment reports, and send them to coaches each month. Although it didn't take me too long, it was tedious and boring. Now it only takes minutes.</p>
-  <p>The app processes booking CSVs from multiple venues, calculates payments, generates GoCardless import files, and emails personalized reports to each coach with their specific bookings attached.</p>
-  <p><strong>Built with:</strong> Python, Streamlit, Gmail API</p>
-
-  <h2>Email Auto-Labeler</h2>
-  <p><em>July 2025</em></p>
-  <p>Built a machine learning system that automatically categorises and archives Gmail emails. I was constantly overwhelmed by my inbox — newsletters, promotions, and notifications cluttering my inbox and this reduced my anxiety significantly. </p>
-  <p>The system uses a trained classifier to predict email categories with confidence scoring — only labeling when it's sure. It runs as a scheduled Cloud Run job, processing new emails and archiving everything except what needs attention.</p>
-  <p>I could have just set up labels and rules in Gmail, but this was more fun.</p>
-  <p><strong>Built with:</strong> Python, Gmail API, scikit-learn, Google Cloud Run</p>
-
-  <h2>AI Support Agent</h2>
-  <p><em>July 2025</em></p>
-  <p>Built an Outlook add-in that drafts customer support email replies using OpenAI.</p>
-  <p>The add-in reads email content directly in Outlook, generates contextually appropriate replies with the right tone and policies, and inserts them into the compose window. Includes customizable prompts for different scenarios.</p>
-  <p><strong>Built with:</strong> JavaScript, Office.js, OpenAI API</p>
-
-  <h2>Newsletter Generator</h2>
-  <p><em>August 2025</em></p>
-  <p>Built a Streamlit app that turns tennis course data into formatted HTML newsletters. As a <a href="https://clubspark.lta.org.uk/VamosTennis/">tennis coaching operator</a>, I was spending too much time manually formatting new courses. This automates the whole process.</p>
-  <p>The app parses an export of course data and uses OpenAI to generate descriptions. It outputs clean HTML ready for email platforms.</p>
-  <p><strong>Built with:</strong> Python, Streamlit, OpenAI API</p>
-  <p><a href="https://github.com/juvern/vt_newsletter_generator">View on GitHub</a></p>
-
-
-
-  <h2>Tennis Course Creator</h2>
-  <p><em>July 2025</em></p>
-  <p>Instead of manually creating dozens of courses each term through the web interface, this reads course data from a CSV and creates them programmatically.</p>
-  <p><strong>Built with:</strong> Python</p>
-
-
 </div>
 
-<p class="last-edited">Last updated February 2026</p>
+<p class="last-edited">Last updated March 2026</p>
