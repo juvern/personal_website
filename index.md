@@ -12,14 +12,16 @@ permalink: /
   </div>
 
   <h1 class="home-name">Juvern See</h1>
-  <p class="home-tagline">Finance, tennis, and whatever I'm curious about next.</p>
+  <p class="home-tagline">Finance, operations, and figuring out where AI actually fits.</p>
 </div>
 
 <div class="home-body">
-  <p>I offer finance and operational consultancy for businesses — including helping them figure out where AI automation actually makes sense and getting it in place. I trained at <a href="https://kpmg.com/uk/en/home.html">KPMG</a>, previously co-founded <a href="https://www.joinrora.com/">RORA</a>, and have worked across many businesses since. 
+  <p>I'm building and experimenting to figure out where AI actually fits in the unglamorous parts of the finance function — categorisation, reconciliation, reporting. Currently have more questions than answers about where AI actually fits here.
+  </p>
+  <p>I trained at <a href="https://kpmg.com/uk/en/home.html">KPMG</a>, co-founded <a href="https://www.joinrora.com/">RORA</a> and have spent a decade in finance and operations at high-growth companies.
   </p>
   <p>I also run a <a href="https://clubspark.lta.org.uk/VamosTennis/">community tennis coaching company</a>.
   </p>
 </div>
 
-<p class="last-edited">Last updated February 2026</p>
+<p class="last-edited">Last updated June 2026</p>

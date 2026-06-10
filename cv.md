@@ -11,14 +11,13 @@ noindex: true
 </div>
 
 <div class="home-body">
-  <p class="pull-quote">You won't find me on LinkedIn as I've become jaded by the performance of professional networking. A timeline never tells the full picture, but if we haven't met, it's probably the best place to start.</p>
+  <p class="pull-quote">A timeline never tells the full picture, but if we haven't met, it's probably the best place to start. I do begrudgingly now have a <a href="https://www.linkedin.com/in/juvern">LinkedIn page</a> because for now it is still the easiest place for folks to find me.</p>
 
   <h2>Work History</h2>
   
-  <p><strong>Founder</strong><br>
-  Fresh Ideabox, London<br>
-  <em>May 2016 – present</em></p>
-  <p>My own consultancy company, providing fractional CFO, FP&A and advisory services to businesses. Recently expanded into AI business automation — helping clients identify and implement practical AI workflows. Past clients include <a href="https://www.ravelin.com/">Ravelin</a>, <a href="https://www.lantum.com/">Lantum</a>, <a href="https://www.callsign.com/">Callsign</a>, Babylon Health, <a href="https://www.rillet.com/">Rillet</a> and <a href="https://clusterfudge.com/">Clusterfudge</a> amongst others. Lead contributor to two modules for the Diploma for Tax Technology offered by <a href="https://www.tax.org.uk/">CIOT.</a></p>
+  <p><strong>Consultant</strong><br>
+  <em>May 2016 – Apr 2017 and Jan 2025 - present</em></p>
+  <p>My own consultancy providing fractional finance and operations work, alongside AI business automation — helping clients identify and implement practical AI workflows. Past clients include <a href="https://www.ravelin.com/">Ravelin</a> (AI fraud detection, acquired by Worldpay), <a href="https://www.lantum.com/">Lantum</a> (workforce management platform), <a href="https://www.callsign.com/">Callsign</a>, Babylon Health, <a href="https://www.rillet.com/">Rillet</a> (AI-native ERP) and <a href="https://www.clusterfudge.dev/">Clusterfudge</a> amongst others. Lead contributor to two modules for the Diploma for Tax Technology offered by <a href="https://www.tax.org.uk/">CIOT.</a></p>
 
   <hr>
 
@@ -70,6 +69,13 @@ noindex: true
   <p>Project-managed financial audits from planning through to completion, with clients ranging from early stage (&lt;£1m turnover) to established corporates (&gt;£500m turnover).</p>
 
   <h2>Education & Qualifications</h2>
+  <p><strong>Back End Development</strong><br>
+  Launch School<br>
+  <em>Sep 2025 – Mar 2026</em></p>
+  <p>Completed the back end curriculum of a mastery-based software engineering programme. A deliberate move to properly understand how the tools I'm building with actually work, not just use them.</p>
+
+  <hr>
+
   <p><strong>LTA Level 2 Tennis Coach</strong><br>
   Lawn Tennis Association, 2025</p>
 
@@ -86,4 +92,4 @@ noindex: true
 
 </div>
 
-<p class="last-edited">Last updated January 2026</p>
+<p class="last-edited">Last updated June 2026</p>
